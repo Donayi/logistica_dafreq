@@ -1,0 +1,15 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.log
+node_modules/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+
+# Si usas uploads locales
+uploads/
