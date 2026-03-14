@@ -13,3 +13,11 @@ venv/
 
 # Si usas uploads locales
 uploads/
+# Excel / Word / docs de negocio
+*.docx
+*.xlsx
+*.pptx
+
+# Carpetas de apoyo que no deben subirse
+Imagenes/
+Proyecto/
